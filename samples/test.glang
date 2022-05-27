@@ -1,0 +1,9 @@
+//printOutput[5__'c'].
+//printOutput['c'__'d'].
+//a = 'a'.
+//b = 'b'.
+//printOutput[a].
+//printOutput[b].
+//printOutput[a__b].
+c = '\n'.
+printOutput[c].
